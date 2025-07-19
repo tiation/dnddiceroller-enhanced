@@ -207,3 +207,23 @@ Whether you're a DM running a campaign or a player making attack rolls, this dic
 ---
 
 *Made with ❤️ for the D&D community*
+
+## 🎲 DND Dice Roller Ecosystem
+
+### Multi-Platform Versions
+- 🌐 [**Enhanced Web App**](https://github.com/tiation/dnddiceroller-enhanced) - You are here! Advanced web-based dice roller
+- 📱 [**iOS App**](https://github.com/tiation/tiation-dice-roller-ios) - Native iOS dice rolling app  
+- 🤖 [**Android App**](https://github.com/tiation/dnddiceroller-android) - Native Android dice rolling app
+- 🐧 [**Linux/Chrome Version**](https://github.com/tiation/tiation-dice-roller-linux-chrome) - Linux & Chrome OS optimized version
+
+### Marketing & Resources
+- 🏪 [**Marketing Site**](https://github.com/tiation/tiation-dice-roller-marketing-site) - Official landing page & feature showcase
+- 📊 [**Feature Comparison**](https://tiation.github.io/tiation-dice-roller-marketing-site/) - Compare all versions
+
+### Quick Links
+- 🎮 [**Try Web Demo**](https://tiation.github.io/dnddiceroller-enhanced/) - Play directly in browser
+- 📱 [**Get Mobile Apps**](https://tiation.github.io/tiation-dice-roller-marketing-site/#downloads) - iOS & Android downloads
+- 🛠️ [**Developer Resources**](https://github.com/tiation/dnddiceroller-enhanced/wiki) - API docs & development guides
+
+---
+
